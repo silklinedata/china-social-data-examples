@@ -1,0 +1,10 @@
+{
+  "name": "china-social-data-examples",
+  "version": "1.0.0",
+  "description": "Examples for Xiaohongshu (RedNote), Weibo, Bilibili and TikTok Shop data via Silkline's Apify Actors",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "apify-client": "^2.25.0"
+  }
+}
