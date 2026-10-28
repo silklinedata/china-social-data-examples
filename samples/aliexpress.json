@@ -1,0 +1,40 @@
+{
+  "actor": "clover_folktale/aliexpress-scraper",
+  "storePage": "https://apify.com/clover_folktale/aliexpress-scraper",
+  "input": {
+    "mode": "search",
+    "keywords": [
+      "phone case"
+    ],
+    "maxResults": 5
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "product",
+      "itemId": "3256813306759652",
+      "url": "https://www.aliexpress.com/item/3256813306759652.html",
+      "searchKeyword": "phone case",
+      "currency": "USD",
+      "title": "This Fox-Themed Phone Case Features a Cartoon-Style Animal Design and Is Compatible with Apple iPhone Models from the 11 Series",
+      "price": 5.09,
+      "soldCount": 0,
+      "rating": null,
+      "isAd": false,
+      "imageUrl": "https://ae-pic-a1.aliexpress-media.com/kf/Sdf7aa02c9b2b41ce98fb035c29f3df02X.jpg"
+    },
+    {
+      "type": "product",
+      "itemId": "3256810401258185",
+      "url": "https://www.aliexpress.com/item/3256810401258185.html",
+      "searchKeyword": "phone case",
+      "currency": "USD",
+      "title": "Case Custom Personalized iPhone Custom Matte Case For iPhone 17 16 15 14 13 12 11 Pro Max Mini SE XS XR 7 8 Plus DIY Personalized Photo Picture Soft Cover Funda",
+      "price": 1.09,
+      "soldCount": 9420,
+      "rating": 4.6,
+      "isAd": true,
+      "imageUrl": "https://ae-pic-a1.aliexpress-media.com/kf/S16fee292afd84e91a83f48afd7de8c5bM.png"
+    }
+  ]
+}

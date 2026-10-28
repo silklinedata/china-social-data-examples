@@ -1,0 +1,50 @@
+{
+  "actor": "clover_folktale/china-search-scraper",
+  "storePage": "https://apify.com/clover_folktale/china-search-scraper",
+  "input": {
+    "mode": "search",
+    "keywords": [
+      "小米"
+    ],
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "post",
+      "platform": "news",
+      "siteName": "今日头条",
+      "keyword": "小米",
+      "title": null,
+      "text": "153cm小个子大基数减肥中…\n⭕️纪录的第106天，减肥的第185天\n身高：153cm\n当前体重：108.8斤（早起未食未💩）\n初始体重：142斤\n目标体重：90斤\n已减体重：33.2斤\n🥤：十里江南桂（三分糖热\n早餐：2个mini紫薯+2个水煮蛋+蓝莓\n午餐：拌饭（杏鲍菇+胡萝卜+油麦菜+虾仁+玉米粒+糙米饭+1个少少油煎蛋）+调料（黑胡椒海盐+1勺醋+半勺酱油+1根小米辣+葱+辣椒粉）\n加餐：10颗巴旦木（9-10g左右）\n水果：蓝莓\n日常：护gan片+b族w生素+鱼油\n水量：1800ml温水\n10月目标➡️106-107\n咋又开始储水了…\n每次放纵餐后第二天才是体重上涨的时候…\n#减肥…",
+      "url": "http://toutiao.com/group/1880014488383497",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorAvatarUrl": "<redacted>",
+      "publishedAt": "2026-10-25T09:45:32Z",
+      "imageUrls": [
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-ezhpy3drpa/9bf56f72be0c49878a718bc436da10a0?_iz=31825&bid=703&from=article.detail&gid=1880014488383497&lk3s=06827d14&x-expires=1824457890&x-signature=ApJoZGRsbFc8EvWLstN2u%2FtJEHE%3D",
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-ezhpy3drpa/685ad7427856400d86f93ca51e3ba018?_iz=31825&bid=703&from=article.detail&gid=1880014488383497&lk3s=06827d14&x-expires=1824457890&x-signature=LvL4gGPBQGQ8Lh8aLuWGocEAaLA%3D",
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-ezhpy3drpa/fa3b41073e074d029ded45292972a54c?_iz=31825&bid=703&from=article.detail&gid=1880014488383497&lk3s=06827d14&x-expires=1824457890&x-signature=PUdiMKgkh0bs6TkIe7mwAAEX5vA%3D"
+      ],
+      "videoUrl": null
+    },
+    {
+      "type": "post",
+      "platform": "news",
+      "siteName": "今日头条",
+      "keyword": "小米",
+      "title": "我长期出摊在用的泡爪配方✨ 我出摊一直在用的无骨鸡爪口味，一斤鸡爪按固定克数配比，味道很稳定，操作也省心。 #出摊小吃 #摆摊鸡爪 #冷泡小吃 #小吃配比 #鸡哥哥泡爪",
+      "text": null,
+      "url": "http://www.toutiao.com/video/7700539350018981942",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorAvatarUrl": "<redacted>",
+      "publishedAt": "2026-10-25T09:45:33Z",
+      "imageUrls": [
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-0813/ooAwkZ84DQGfg55PAgFAGS7fWEfIVABIE9AFBu?_iz=31825&bid=676&from=article.detail&gid=7700539350018981942&lk3s=06827d14&x-expires=1795514369&x-signature=zU8fuqxGmi19JwAxZNwz1VsRTL4%3D"
+      ],
+      "videoUrl": "https://api.huoshan.com/hotsoon/item"
+    }
+  ]
+}

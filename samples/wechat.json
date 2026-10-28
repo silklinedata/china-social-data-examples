@@ -1,0 +1,35 @@
+{
+  "actor": "clover_folktale/wechat-scraper",
+  "storePage": "https://apify.com/clover_folktale/wechat-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "咖啡",
+    "sort": "hot",
+    "maxResults": 3
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "article",
+      "articleId": "MzA4MjQxNjQzMA==_2769089227_1",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2769089227&idx=1&sn=9c3bc2b9b50fc64931459e54637a24ae",
+      "title": "每天喝咖啡是“提神”还是“伤身”？",
+      "summary": "咖啡之所以可以提神，核心成分是咖啡因，它可以通过血脑屏障，阻断腺苷与受体结合。腺苷是人体产生疲劳和睡意的重要信号，被咖啡因阻断之后，身体的疲劳感就会暂时消退，人也变得精神抖擞。",
+      "accountName": "新华网",
+      "publishedAt": "2026-10-13T13:57:11Z",
+      "coverUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/7042Vtt599XJIrap8Vd5a6wcrZd2N6iabTQLb7c6vd1EAs1qELaEuktV027fTBK6kibkMaGXonxEAPW7jPUQV0RQLOxcmwxNDyT0435gPWSIU/0?wx_fmt=jpeg",
+      "readCount": 100000
+    },
+    {
+      "type": "article",
+      "articleId": "MTI0MDU3NDYwMQ==_2657964899_1",
+      "url": "https://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=2657964899&idx=1&sn=420f338262a6c6a671661cb79ef9cd14",
+      "title": "真的建议，这8类人少喝咖啡！",
+      "summary": "咖啡中含有较高的咖啡因，具有一定的提神效果。因此，很多上班族都依靠咖啡来打起精神，努力工作。有研究显示：咖啡因在人体吸收迅速，一般在饮用后15分钟至2小时就能达到峰值，扩散全身，并跨越血脑屏障。",
+      "accountName": "央视新闻",
+      "publishedAt": "2026-08-31T12:54:12Z",
+      "coverUrl": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JPu5lvAD1XFWsXvjU4ZFKjR0KThDvDOHv7IWibxK4hFYMj1531gicYqvJ3Enib0sQKBSjHnUk4x68oW8mBxkx5ploiaOyiaNv0kV6CvEjeSrxEL4/0?wx_fmt=jpeg",
+      "readCount": 100000
+    }
+  ]
+}

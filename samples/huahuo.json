@@ -1,0 +1,121 @@
+{
+  "actor": "clover_folktale/huahuo-scraper",
+  "storePage": "https://apify.com/clover_folktale/huahuo-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "美食",
+    "category": "food",
+    "sort": "followers",
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "creator",
+      "userId": "18202105",
+      "url": "https://space.bilibili.com/18202105",
+      "nickname": "绵羊料理",
+      "avatar": "https://i1.hdslb.com/bfs/face/54b5c9c2ad7f1baff195090bfd6afa365ef20c37.jpg",
+      "gender": "female",
+      "region": "上海 上海",
+      "category": "美食",
+      "subCategory": "美食制作",
+      "accountType": "independent",
+      "agencyName": "花火计划个人UP主商业合作",
+      "followers": 12183117,
+      "tags": [
+        "近年百大UP主",
+        "入站哔买"
+      ],
+      "averagePlays": 6581856,
+      "interactionRate": 0.0526,
+      "quotes": [
+        {
+          "type": "定制视频",
+          "price": 560000,
+          "discountPrice": 560000
+        },
+        {
+          "type": "植入视频",
+          "price": 560000,
+          "discountPrice": 560000
+        },
+        {
+          "type": "直发动态",
+          "price": 120000,
+          "discountPrice": 120000
+        }
+      ],
+      "followersGrowth": 34802,
+      "followersGrowthPct": 0.3,
+      "medianPlays": 4748588,
+      "cpm": 161.78,
+      "cpc": 123.08,
+      "videos30d": 2,
+      "videos90d": 5,
+      "videos180d": 9,
+      "hotVideos180d": 9,
+      "sponsoredVideos": 72,
+      "cooperationModes": [
+        "小剧场",
+        "改造/DIY",
+        "亲友互动"
+      ],
+      "commerceEnabled": true,
+      "isLive": false
+    },
+    {
+      "type": "creator",
+      "userId": "337521240",
+      "url": "https://space.bilibili.com/337521240",
+      "nickname": "记录生活的蛋黄派",
+      "avatar": "https://i0.hdslb.com/bfs/face/9ba6c7a0d3a2ebfe9db2f46219ece98e210d0269.jpg",
+      "gender": "male",
+      "region": "广东 深圳",
+      "category": "美食",
+      "subCategory": "美食测评",
+      "accountType": "independent",
+      "agencyName": "花火计划个人UP主商业合作",
+      "followers": 9297663,
+      "tags": [
+        "生活Vlog"
+      ],
+      "averagePlays": 1587920,
+      "interactionRate": 0.0535,
+      "quotes": [
+        {
+          "type": "定制视频",
+          "price": 400000,
+          "discountPrice": 400000
+        },
+        {
+          "type": "植入视频",
+          "price": 300000,
+          "discountPrice": 300000
+        },
+        {
+          "type": "直发动态",
+          "price": 4000,
+          "discountPrice": 4000
+        }
+      ],
+      "followersGrowth": 41085,
+      "followersGrowthPct": 0.4,
+      "medianPlays": 1166745,
+      "cpm": 151.48,
+      "cpc": 28.84,
+      "videos30d": 4,
+      "videos90d": 11,
+      "videos180d": 29,
+      "hotVideos180d": 29,
+      "sponsoredVideos": 39,
+      "cooperationModes": [
+        "实物实拍评测",
+        "口播广告",
+        "支持7日急单"
+      ],
+      "commerceEnabled": true,
+      "isLive": false
+    }
+  ]
+}

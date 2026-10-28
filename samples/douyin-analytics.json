@@ -1,0 +1,183 @@
+{
+  "actor": "clover_folktale/douyin-analytics-scraper",
+  "storePage": "https://apify.com/clover_folktale/douyin-analytics-scraper",
+  "input": {
+    "mode": "accountInsight",
+    "accounts": [
+      "https://www.douyin.com/user/MS4wLjABAAAAvcQlQ5vR2pYV04MZ6EzflPQdWTJbVBNnDQTjKiLoH90"
+    ],
+    "maxResults": 3
+  },
+  "runDate": "2026-10-28",
+  "items": [
+    {
+      "type": "accountInsight",
+      "secUid": "MS4wLjABAAAAvcQlQ5vR2pYV04MZ6EzflPQdWTJbVBNnDQTjKiLoH90",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAvcQlQ5vR2pYV04MZ6EzflPQdWTJbVBNnDQTjKiLoH90",
+      "followerChangeTrend": [
+        {
+          "date": "2026-07-29",
+          "change": 1377
+        },
+        {
+          "date": "2026-07-30",
+          "change": 1371
+        },
+        {
+          "date": "2026-07-31",
+          "change": 1158
+        }
+      ],
+      "followerChangeAverage": 1239.7752808988764,
+      "performance": {
+        "posts": {
+          "average": 1,
+          "averageRate": 0,
+          "peerAverage": 1,
+          "peerRate": 0
+        },
+        "comments": {
+          "average": 145,
+          "averageRate": 0.7469879518072289,
+          "peerAverage": 148,
+          "peerRate": 0.85
+        },
+        "shares": {
+          "average": 1950.4285714285713,
+          "averageRate": 1.174044585987261,
+          "peerAverage": 2012,
+          "peerRate": 1.2405345211581291
+        },
+        "newFollowers": {
+          "average": 540.8571428571429,
+          "averageRate": 1.6756183745583042,
+          "peerAverage": 611,
+          "peerRate": 2.0247524752475248
+        },
+        "likes": {
+          "average": 4182,
+          "averageRate": 1.6707417206459263,
+          "peerAverage": 4733,
+          "peerRate": 2.093464052287582
+        }
+      },
+      "fansPortrait": {
+        "gender": [
+          {
+            "name": "male",
+            "share": 0.7049470417767292,
+            "index": 135.19397144899665
+          },
+          {
+            "name": "female",
+            "share": 0.2950529582232708,
+            "index": 63.323519690373324
+          }
+        ],
+        "age": [
+          {
+            "name": "50-",
+            "share": 0.36399469592574296,
+            "index": 162.06552218717837
+          },
+          {
+            "name": "41-50",
+            "share": 0.3140375965263514,
+            "index": 215.0126328448303
+          },
+          {
+            "name": "31-40",
+            "share": 0.23303086243207405,
+            "index": 72.58374153278626
+          }
+        ],
+        "province": [
+          {
+            "name": "四川",
+            "share": 0.3333596106749072,
+            "index": 635.2630594726189
+          },
+          {
+            "name": "重庆",
+            "share": 0.24078453631003058,
+            "index": 1154.0059260314758
+          },
+          {
+            "name": "贵州",
+            "share": 0.09312164306961393,
+            "index": 348.474139524715
+          }
+        ]
+      },
+      "fansAlsoFollow": [
+        {
+          "secUid": "MS4wLjABAAAA9RDBvk1RzT5NxSvAJJBf0MuuHSsY5RJxnDhu-wh5Ut4GxZGioC6MCr7aExG0-4b5",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAA9RDBvk1RzT5NxSvAJJBf0MuuHSsY5RJxnDhu-wh5Ut4GxZGioC6MCr7aExG0-4b5",
+          "nickname": "猴哥爱做江湖菜",
+          "avatar": "https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_oApBMyGjILACQsETQAIGAcBABnnee74OReKFA7.jpeg?from=2956013662",
+          "followers": 1741404,
+          "likes": 7863643,
+          "posts": 675
+        },
+        {
+          "secUid": "MS4wLjABAAAAKkxWDNSg1p7TKops8GtKG7XFqyv3nzn5DjP-bF6OsWrQwRxpG6bsQfL25VlfoCjZ",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAAKkxWDNSg1p7TKops8GtKG7XFqyv3nzn5DjP-bF6OsWrQwRxpG6bsQfL25VlfoCjZ",
+          "nickname": "厨波波江湖菜",
+          "avatar": "https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-i-0813_069d3b68d5064f1e9090b4fbdb8d0ec7.jpeg?from=2956013662",
+          "followers": 1250004,
+          "likes": 10042897,
+          "posts": 1518
+        },
+        {
+          "secUid": "MS4wLjABAAAADs1Sqbwfxe2y1B7HrzfM49GaXsPF-0uo1bTMUTmt2sQ",
+          "url": "https://www.douyin.com/user/MS4wLjABAAAADs1Sqbwfxe2y1B7HrzfM49GaXsPF-0uo1bTMUTmt2sQ",
+          "nickname": "四哥家常菜",
+          "avatar": "https://p11.douyinpic.com/aweme/720x720/aweme-avatar/tos-cn-avt-0015_f21b5ac408be3b0946ba8a0ab03ecdba.jpeg?from=2956013662",
+          "followers": 740921,
+          "likes": 5956030,
+          "posts": 1394
+        }
+      ],
+      "fansTopics": [
+        {
+          "topicId": "1576070090835982",
+          "name": "黄磊",
+          "plays": 46827886581,
+          "posts": 185925,
+          "averagePlays": 251864,
+          "hotScore": 123543
+        },
+        {
+          "topicId": "1601855772046403",
+          "name": "军旅剧",
+          "plays": 53911303840,
+          "posts": 247211,
+          "averagePlays": 218078,
+          "hotScore": 193721
+        },
+        {
+          "topicId": "1638374406601739",
+          "name": "利刃出鞘",
+          "plays": 8214745429,
+          "posts": 39928,
+          "averagePlays": 205738,
+          "hotScore": 0
+        }
+      ],
+      "fansSearchWords": [
+        {
+          "word": "足球赛程",
+          "heat": 149
+        },
+        {
+          "word": "姚冠宇",
+          "heat": 43
+        },
+        {
+          "word": "rachel小鱼妹",
+          "heat": 40
+        }
+      ]
+    }
+  ]
+}

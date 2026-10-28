@@ -1,0 +1,60 @@
+{
+  "actor": "clover_folktale/xiaohongshu-scraper",
+  "storePage": "https://apify.com/clover_folktale/xiaohongshu-scraper",
+  "input": {
+    "mode": "search",
+    "maxResults": 5,
+    "keyword": "咖啡"
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "note",
+      "noteId": "69d4809b0000000023013094",
+      "url": "https://www.xiaohongshu.com/explore/69d4809b0000000023013094",
+      "noteType": "video",
+      "title": "乌龙拿铁｜茶咖脑袋本命！清爽不腻太上头",
+      "description": "谁懂啊！乌龙茶的清冽+咖啡的醇厚+牛奶的丝滑 一口下去茶香回甘，完全不苦不腻 比纯拿铁清爽，比纯奶茶提神 早八续命、下午",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorRedId": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorIpLocation": null,
+      "authorVerified": false,
+      "authorUrl": "<redacted>",
+      "publishedAt": "2026-04-07T03:57:15Z",
+      "likes": 18728,
+      "collects": 16349,
+      "comments": 365,
+      "shares": 7825,
+      "coverUrl": "https://sns-i11.rednotecdn.com/1040g2sg31ul6sapt2s005oji8f58cr3era9i6uo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=6560faf12d71dcc51811cd09234a6d1d&t=6adfe67f",
+      "imageCount": null,
+      "durationSeconds": 27,
+      "hashtags": []
+    },
+    {
+      "type": "note",
+      "noteId": "6a34c6cc000000000f0309ec",
+      "url": "https://www.xiaohongshu.com/explore/6a34c6cc000000000f0309ec",
+      "noteType": "image",
+      "title": "🌿福州新店！！拥有绿色窗台的小木屋咖啡店",
+      "description": "这个窗景谁能不喜欢呀！每个窗口都能看到大片的绿色 找个悠闲的时间段慢慢来感受 真的很舒服 感觉也很适合自习！！！ 我最喜",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorRedId": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorIpLocation": null,
+      "authorVerified": false,
+      "authorUrl": "<redacted>",
+      "publishedAt": "2026-06-19T04:34:20Z",
+      "likes": 695,
+      "collects": 521,
+      "comments": 61,
+      "shares": 1177,
+      "coverUrl": "https://sns-i11.rednotecdn.com/note_pre_post_uhdr/1040g3r0321j7an4nn02049p6j737a5re12bdmgg?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=9d781e26fe6178ff698400e06db34b94&t=6adfe67f",
+      "imageCount": 16,
+      "durationSeconds": null,
+      "hashtags": []
+    }
+  ]
+}

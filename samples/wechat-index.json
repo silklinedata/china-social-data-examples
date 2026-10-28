@@ -1,0 +1,71 @@
+{
+  "actor": "clover_folktale/wechat-index-scraper",
+  "storePage": "https://apify.com/clover_folktale/wechat-index-scraper",
+  "input": {
+    "keywords": [
+      "咖啡",
+      "瑞幸"
+    ],
+    "maxResults": 2,
+    "mode": "trend"
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "trend",
+      "keyword": "咖啡",
+      "dataPointCount": 30,
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-25",
+      "latestIndex": 95300126,
+      "averageIndex": 97058419,
+      "peakIndex": 113923033,
+      "peakDate": "2026-09-26",
+      "dataPoints": [
+        {
+          "date": "2026-09-26",
+          "timestamp": 1790352000,
+          "index": 113923033
+        },
+        {
+          "date": "2026-09-27",
+          "timestamp": 1790438400,
+          "index": 100629012
+        },
+        {
+          "date": "2026-09-28",
+          "timestamp": 1790524800,
+          "index": 93621068
+        }
+      ]
+    },
+    {
+      "type": "trend",
+      "keyword": "瑞幸",
+      "dataPointCount": 30,
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-25",
+      "latestIndex": 32348056,
+      "averageIndex": 35602779,
+      "peakIndex": 40257064,
+      "peakDate": "2026-10-01",
+      "dataPoints": [
+        {
+          "date": "2026-09-26",
+          "timestamp": 1790352000,
+          "index": 37128902
+        },
+        {
+          "date": "2026-09-27",
+          "timestamp": 1790438400,
+          "index": 34741028
+        },
+        {
+          "date": "2026-09-28",
+          "timestamp": 1790524800,
+          "index": 35428797
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "actor": "clover_folktale/bilibili-scraper",
+  "storePage": "https://apify.com/clover_folktale/bilibili-scraper",
+  "input": {
+    "mode": "search",
+    "maxResults": 10,
+    "keyword": "原神"
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "video",
+      "bvid": "BV1BZn86qEA5",
+      "aid": 117490172561259,
+      "url": "https://www.bilibili.com/video/BV1BZn86qEA5",
+      "title": "当我和好姐妹一人只能控制半边身体？！",
+      "description": "不要小瞧我和歌歌的羁绊啊！",
+      "authorName": "大橙橙橙子",
+      "authorId": 1691347,
+      "authorUrl": "https://space.bilibili.com/1691347",
+      "authorAvatar": "https://i1.hdslb.com/bfs/face/edaf4abc2c6f93f3eb758a07d873c1f520bec86c.jpg",
+      "coverUrl": "https://i0.hdslb.com/bfs/archive/4dfcbb7883228f5c2905baae51b84c8765c73fc8.jpg",
+      "durationSeconds": 977,
+      "publishedAt": "2026-10-24T00:00:00Z",
+      "views": 261177,
+      "likes": 18567,
+      "coins": null,
+      "favorites": 3298,
+      "shares": null,
+      "comments": 425,
+      "danmaku": 639,
+      "category": "单机游戏",
+      "tags": [
+        "绮星盛会",
+        "大橙子",
+        "搞笑"
+      ]
+    },
+    {
+      "type": "video",
+      "bvid": "BV1N2nX65EYp",
+      "aid": 117504114431665,
+      "url": "https://www.bilibili.com/video/BV1N2nX65EYp",
+      "title": "在滑冰开始前先来摇摆吧",
+      "description": "Credits:\nModels: miHoYo/Stormz67\nScene: miHoYo/Tawan/Festivity/Stormz67/Nagomi\nShaders: Festivity\nAnimation: Nagomi (me)\nSoftware: Blender/Adobe Premiere/Filmora/After Affect\nBGM: Earth, Wind &amp; Fire - Let&#x27;s Groove\nInspiration: Many Groove Variants!\nRefere",
+      "authorName": "Nagomi_ANI",
+      "authorId": 3546614371190863,
+      "authorUrl": "https://space.bilibili.com/3546614371190863",
+      "authorAvatar": "https://i1.hdslb.com/bfs/face/7939aa95bf15e467a7ed513f1f1f539eb9aae9bb.jpg",
+      "coverUrl": "https://i0.hdslb.com/bfs/archive/7f3ac79bda55423adbcc1c5eb1b01e82ce40ead6.jpg",
+      "durationSeconds": 41,
+      "publishedAt": "2026-10-25T23:26:14Z",
+      "views": 25165,
+      "likes": 5920,
+      "coins": null,
+      "favorites": 1522,
+      "shares": null,
+      "comments": 99,
+      "danmaku": 12,
+      "category": "MMD·3D",
+      "tags": [
+        "哥伦比娅",
+        "原神UP主激励计划",
+        "MMD"
+      ]
+    }
+  ]
+}

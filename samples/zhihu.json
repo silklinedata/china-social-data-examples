@@ -1,0 +1,60 @@
+{
+  "actor": "clover_folktale/zhihu-scraper",
+  "storePage": "https://apify.com/clover_folktale/zhihu-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "人工智能",
+    "searchType": "answers",
+    "sort": "votes",
+    "maxResults": 3
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "answer",
+      "answerId": "2006737249803454088",
+      "url": "https://www.zhihu.com/question/658385796/answer/2006737249803454088",
+      "questionId": "658385796",
+      "questionTitle": "这波人工智能浪潮怎么越来越像泡沫，AI到底带来了什么？",
+      "text": "我尽量把事情讲清楚，然后咱们判断一下。\n大白话。就那么个意思。不严谨，不科学，不系统，不全面，不保证对，不负任何责任。\n适用于跟我一样对AI一窍不通的你。\n一，\n人工智能稍早差不多是2016年的阿尔法狗。就是喂给它历史上所有的棋谱，让它去下棋。这个泡沫当时炒作的就很大。但它的本质和我们玩的人机版斗地主，麻将雀魂，没有差别。\nalphago的运作本质，是概率学。也就是我下棋下在a点，赢的概率是多少，我下b点，赢的概率是多少。\n然后，上一轮人工智能的热潮，是2020年前后。当时叫的上名的产品，是脸书的元宇宙、数字藏品，和所谓的大数据算法。\n结果有输有赢。\n元宇宙最惨，一年投了好几百亿美刀。做了一大…",
+      "excerpt": "我尽量把事情讲清楚，然后咱们判断一下。大白话。就那么个意思。不严谨，不科学，不系统，不全面，不保证对，不负任何责任。适用于跟我一样对AI一窍不通的你。一，人工智能稍早差不多是2016年的阿尔法狗。就是喂给它历史上所有的棋谱，让它去下棋。这个泡沫当时炒作的就很大。但它的本质和我们玩的人机版斗地主",
+      "voteupCount": 14127,
+      "commentCount": 87,
+      "favoriteCount": 10058,
+      "createdAt": "2026-02-16T06:30:43Z",
+      "updatedAt": "2026-02-22T12:49:04Z",
+      "author": "<redacted>",
+      "authorId": "<redacted>",
+      "authorUrlToken": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorHeadline": "<redacted>",
+      "authorGender": "<redacted>",
+      "authorFollowerCount": "<redacted>",
+      "authorVerification": null,
+      "authorIpLocation": null
+    },
+    {
+      "type": "answer",
+      "answerId": "735907352",
+      "url": "https://www.zhihu.com/question/333022816/answer/735907352",
+      "questionId": "333022816",
+      "questionTitle": "如何看待在 2019 年 7 月 3 日的百度人工智能开发者大会上李彦宏遭现场泼水 ？",
+      "text": "上图：\n\n不对\n\n脖子上挂着牌子穿着有点像工作人员的上台给罗宾头上倒水，表情专注，左手轻轻压住罗宾左手。\n罗宾此时面无表情，接受洗礼。\n\n在倒水1秒后，倒水这表情依然专注认真，像是在完成任务，左手比原先用力，肌肉显露出来。\n罗宾开始皱眉，哪里找的？演技这么差？倒这么慢你想干啥。\n同时盛赞怡宝水太甜。\nPS：百度搜的\n怡宝或成最大赢家\n\n矿泉水飞流直下，开始在罗宾脑袋上挂起瀑布，倒水这表情依然专注在自己的水上，丝毫不怕比他强壮高达的罗宾反手给他一巴掌，渐渐松开左手。\n\n中国最大搜索引擎公司百度CEO，宛若出水白莲花。\n倒水者依然认真专注，神情泰然，没有激动没有害怕，只为完成任务一般。\n\n为了防止…",
+      "excerpt": "上图：不对",
+      "voteupCount": 8823,
+      "commentCount": 545,
+      "favoriteCount": 278,
+      "createdAt": "2019-07-03T02:42:16Z",
+      "updatedAt": "2019-07-03T04:17:51Z",
+      "author": "<redacted>",
+      "authorId": "<redacted>",
+      "authorUrlToken": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorHeadline": "<redacted>",
+      "authorGender": "<redacted>",
+      "authorFollowerCount": "<redacted>",
+      "authorVerification": null,
+      "authorIpLocation": null
+    }
+  ]
+}

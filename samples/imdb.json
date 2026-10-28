@@ -1,0 +1,49 @@
+{
+  "actor": "clover_folktale/imdb-scraper",
+  "storePage": "https://apify.com/clover_folktale/imdb-scraper",
+  "input": {
+    "mode": "chart",
+    "maxResults": 5
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "chartEntry",
+      "rank": 1,
+      "imdbId": "tt0111161",
+      "url": "https://www.imdb.com/title/tt0111161/",
+      "chart": "movie",
+      "language": "en_US",
+      "title": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "titleType": "movie",
+      "year": 1994,
+      "endYear": null,
+      "releaseDate": "1994-10-14",
+      "releaseDateCountry": "US",
+      "rating": 9.3,
+      "voteCount": 3258126,
+      "weightedRating": 9.240867086124963,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "type": "chartEntry",
+      "rank": 2,
+      "imdbId": "tt0068646",
+      "url": "https://www.imdb.com/title/tt0068646/",
+      "chart": "movie",
+      "language": "en_US",
+      "title": "The Godfather",
+      "originalTitle": "The Godfather",
+      "titleType": "movie",
+      "year": 1972,
+      "endYear": null,
+      "releaseDate": "1972-03-24",
+      "releaseDateCountry": "US",
+      "rating": 9.2,
+      "voteCount": 2268379,
+      "weightedRating": 9.143713940403273,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

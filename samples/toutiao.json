@@ -1,0 +1,45 @@
+{
+  "actor": "clover_folktale/toutiao-scraper",
+  "storePage": "https://apify.com/clover_folktale/toutiao-scraper",
+  "input": {
+    "mode": "article",
+    "posts": [
+      "https://www.toutiao.com/article/7700872920532320803/"
+    ],
+    "maxResults": 3
+  },
+  "runDate": "2026-10-28",
+  "items": [
+    {
+      "type": "article",
+      "articleId": "7700872920532320803",
+      "url": "https://www.toutiao.com/article/7700872920532320803/",
+      "title": "高盛预测中国楼市：别被天量库存骗了，2028年新房可能都不够卖？",
+      "text": "前几天，高盛一份地产研报，在圈内炸了。 既不唱衰崩盘，也不画上涨大饼，它只干了一件实在事：下沉到城市，实打实清点存量房源。\n\n很多人听过一个说法，房子库存够卖十年。看完这份调研才懂，这话早就失真了。\n\n2026 年 8 月底，五部门联合落地 828 新政，核心重拳就是全面推进现房销售，新地块大多要封顶竣工，才能对外销售回款。\n\n这也是 2021 年下行之后，顶层力度最强的一次规则重塑。\n\n 高盛跑遍 18 座城市，逐个项目摸排进度：施工阶段、是否封顶、有无预售证、已网签、剩余货量一一核对。\n\n 账面看着去化周期长达 7 年，但真正拿证、能正常卖的现房准现房，仅仅只够卖 27 个月。巨大的库存水…",
+      "textAvailable": true,
+      "images": [
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-6w9my0ksvp/46cb88b28b63425eb864e074e01fd0a8?_iz=31825&bid=10&from=article.detail&gid=7700872920532320803&lk3s=06827d14&x-expires=1824686793&x-signature=DyD0rPOllhfljPlMnLBXFIV14LA%3D",
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-6w9my0ksvp/bd3fa15c6b264c029e38682c33db3c9b?_iz=31825&bid=10&from=article.detail&gid=7700872920532320803&lk3s=06827d14&x-expires=1824686793&x-signature=cV29tqW20UewY%2BAb6Z1ijpSaoMM%3D",
+        "https://p3-sign.toutiaoimg.com/large/tos-cn-i-6w9my0ksvp/c7720200300a4a25ac667db3e18ea3f1?_iz=31825&bid=10&from=article.detail&gid=7700872920532320803&lk3s=06827d14&x-expires=1824686793&x-signature=8rtHhBqpulgUo51DD519WgrDqYw%3D"
+      ],
+      "imageCount": 27,
+      "publishedAt": "2026-10-26T14:58:00Z",
+      "publishLocation": "河南",
+      "isOriginal": false,
+      "readCount": 4422,
+      "likeCount": 57,
+      "commentCount": 35,
+      "shareCount": 36,
+      "collectCount": 38,
+      "impressionCount": 99172,
+      "authorId": "2694234264069886",
+      "authorName": "丞霖浊影深",
+      "authorAvatar": "https://p3-sign.toutiaoimg.com/user-avatar/a6bac329d69cf652d83eaa92c416303a~300x300.image?_iz=112761&from=tt_user.tuwen&lk3s=06827d14&x-expires=1793836800&x-signature=ClZAVhh8%2BkJBbMVv%2Fa8v42yqobI%3D",
+      "authorDescription": null,
+      "authorVerified": true,
+      "authorVerifiedInfo": "鄢陵县丞霖文化传媒有限公司官方账号",
+      "authorMediaId": "1763944398034958",
+      "authorFollowerCount": null
+    }
+  ]
+}

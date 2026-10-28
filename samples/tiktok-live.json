@@ -1,0 +1,52 @@
+{
+  "actor": "clover_folktale/tiktok-live-scraper",
+  "storePage": "https://apify.com/clover_folktale/tiktok-live-scraper",
+  "input": {
+    "mode": "liveSearch",
+    "keywords": [
+      "cat"
+    ],
+    "maxResults": 3
+  },
+  "runDate": "2026-10-27",
+  "items": [
+    {
+      "type": "liveRoom",
+      "roomId": "7701272573446720270",
+      "title": "Cat needs gift gallery filled 🐈‍⬛🎀",
+      "isLive": true,
+      "viewerCount": 15,
+      "totalViewers": 332,
+      "likeCount": 2631,
+      "shareCount": null,
+      "startedAt": "2026-10-27T09:14:58Z",
+      "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c2036565a1c98facdc191e6a4f95aaf6~tplv-tiktokx-cropcenter:720:720.webp?dr=9640&refresh_token=e9c48558&x-expires=1793264400&x-signature=7nX%2Fmnw33%2B9FXaC1WeSTJS7uFh0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+      "hostUserId": "<redacted>",
+      "hostHandle": "<redacted>",
+      "hostNickname": "<redacted>",
+      "hostFollowerCount": "<redacted>",
+      "hostFollowingCount": "<redacted>",
+      "liveUrl": "https://www.tiktok.com/@<redacted>/live",
+      "keyword": "cat"
+    },
+    {
+      "type": "liveRoom",
+      "roomId": "7701200103649938206",
+      "title": "DYOR🔥CAT O'LANTERN🔥",
+      "isLive": true,
+      "viewerCount": 6,
+      "totalViewers": 322,
+      "likeCount": 4004,
+      "shareCount": 7,
+      "startedAt": "2026-10-27T04:31:42Z",
+      "coverUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/072abaf6dace2ccd67551b7b0ab4ebfc~tplv-tiktokx-cropcenter:720:720.webp?dr=9640&refresh_token=0f76b5dc&x-expires=1793264400&x-signature=9rRx375EkEtKOJ5ec%2B2tE9slmws%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast8",
+      "hostUserId": "<redacted>",
+      "hostHandle": "<redacted>",
+      "hostNickname": "<redacted>",
+      "hostFollowerCount": "<redacted>",
+      "hostFollowingCount": "<redacted>",
+      "liveUrl": "https://www.tiktok.com/@<redacted>/live",
+      "keyword": "cat"
+    }
+  ]
+}

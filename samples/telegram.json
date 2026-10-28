@@ -1,0 +1,104 @@
+{
+  "actor": "clover_folktale/telegram-scraper",
+  "storePage": "https://apify.com/clover_folktale/telegram-scraper",
+  "input": {
+    "mode": "channelPosts",
+    "channels": [
+      "cointelegraph"
+    ],
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "message",
+      "postKey": "cointelegraph/72849",
+      "messageId": 72849,
+      "channel": "cointelegraph",
+      "channelTitle": "Cointelegraph",
+      "channelSubscriberCount": 328000,
+      "channelVerified": false,
+      "channelPhotoUrl": "https://cdn4.telesco.pe/file/Hvysc1sfGO3g7wRfLHd0bpCB8rgCMZSnWebd0gHavdcC1kvld15uMpFAoNcvtbPDqKh0Wm2n6ZjVc7sQxiAOS5bk9OkqG3dzyVfweGdzyzMbk878Avy2gqyG_H8NkVIuHFLbpt0Whd2c1od_09B5hAYB5cmeEVAlrSBvg1D-y_EvVCuN-_H2Y9fVfVF0cDSU6tGqusKftOh78bh7BElHvFswPl_uVurDWiAqcT2Nyf8Szp8w6Yu0fPkEpm4_nibA3bymghFj07c5Gfn…",
+      "channelDescription": "The Future of MoneyUnbiased crypto, markets & Web3 news in real-time. Trusted since 2013.🔔Turn on notifications to catch the calls that move markets.Explore:linktr.ee/cointelegraph_mobileFor ads: advertise@cointelegraph.com",
+      "url": "https://t.me/cointelegraph/72849",
+      "messageType": "album",
+      "publishedAt": "2026-10-26T07:00:57Z",
+      "text": "🚨 TODAY: CZ hints at “multiple chains, one coin” as BNB Chain’s updated docs reveal plans for a new high-performance EVM L1.\n\nNews | Markets | YouTube",
+      "viewCount": 3130,
+      "author": "Cointelegraph",
+      "isForwarded": false,
+      "forwardedFrom": null,
+      "replyToMessageId": null,
+      "linkPreviewUrl": null,
+      "linkPreviewTitle": null,
+      "photoUrls": [
+        "https://cdn5.telesco.pe/file/G_ndjic_blBlCXbovbsyupq1-ZcA5aQtba0w5nXQ0_nduQj0jAYa8wN8mssywTo49b4elRX17UW460sXbrtVe5bt8G24tWltkrnIyn5f8CrOM-SL69FKlSv5Z71DV_T8E9GBj_TM01bXSDNvccR6aLrE9oLKk9QNsjiVVD2UtwdcNMTxPMWXTUVAQkakjzIzYFpQg9DDNuE1qHIPtNPsKpKrsHsBnNOYXIh9TVDtKLYdGen6oBxGIe7kCFxtPkF9MifZ7XWUbO3QnV2…",
+        "https://cdn5.telesco.pe/file/ro45YGz-hG-FL_yRd50vPltJ8nhZnyVZ9U1DQqzVng2i5-yOEO6EQdHHaagdvq3ta9G0MxKiQi_1mIPLrYV9zLWIPdlseniddUOeyDM_pXXK33YwrWcc4ixdYF05B8i-rb2m7CQ3i3kUgFJOb3sFYrgY3JXsQvxrkk1RId4vf_TebKO40pzl7GYcycmGLkTZqde7Ynmo1ixoT9OBLdTeKdJ-0IC2gZhc3HeH-GKj04XH3zaYCofEneHY46_STOIMmNuZpJwjqEyxqSQ…"
+      ],
+      "videoUrls": [],
+      "reactionCount": 28,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 18,
+          "paid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": 5,
+          "paid": false
+        },
+        {
+          "emoji": "❤",
+          "count": 4,
+          "paid": false
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "postKey": "cointelegraph/72847",
+      "messageId": 72847,
+      "channel": "cointelegraph",
+      "channelTitle": "Cointelegraph",
+      "channelSubscriberCount": 328000,
+      "channelVerified": false,
+      "channelPhotoUrl": "https://cdn4.telesco.pe/file/Hvysc1sfGO3g7wRfLHd0bpCB8rgCMZSnWebd0gHavdcC1kvld15uMpFAoNcvtbPDqKh0Wm2n6ZjVc7sQxiAOS5bk9OkqG3dzyVfweGdzyzMbk878Avy2gqyG_H8NkVIuHFLbpt0Whd2c1od_09B5hAYB5cmeEVAlrSBvg1D-y_EvVCuN-_H2Y9fVfVF0cDSU6tGqusKftOh78bh7BElHvFswPl_uVurDWiAqcT2Nyf8Szp8w6Yu0fPkEpm4_nibA3bymghFj07c5Gfn…",
+      "channelDescription": "The Future of MoneyUnbiased crypto, markets & Web3 news in real-time. Trusted since 2013.🔔Turn on notifications to catch the calls that move markets.Explore:linktr.ee/cointelegraph_mobileFor ads: advertise@cointelegraph.com",
+      "url": "https://t.me/cointelegraph/72847",
+      "messageType": "album",
+      "publishedAt": "2026-10-26T03:36:38Z",
+      "text": "⚡️ NOW: Vitalik Buterin backs Kimi 3.1 excluding offensive cyber capabilities from its training data, warning that mishandling AI risk could lead to locked-down models and KYC-gated access.\n\nNews | Markets | YouTube",
+      "viewCount": 4940,
+      "author": "Cointelegraph",
+      "isForwarded": false,
+      "forwardedFrom": null,
+      "replyToMessageId": null,
+      "linkPreviewUrl": null,
+      "linkPreviewTitle": null,
+      "photoUrls": [
+        "https://cdn5.telesco.pe/file/D9UAW83y3j5Wy67Mm-nx5MbH0QbHSTrdOG3Yt6NZm_JNVbQnltCAePmcGEwi9neHfR2POyjcTKwnvLNRG2k1VGOGwlWmYFLoB-clYZ7Ocdmq0QV1fInxJ-VTf-74RybIz_RCPPy_tCFqmMDjj-Crq8aaRuias93Upqsk2mUcDdPyyHZS-R-KPbV2nlJJ13cII2Bm1T29JANFE_EiQU5J8E0F_bz2A2XQdKN0kzFGBty7058qgBocJQbjc9arwp2jdvFz05IrcAZcxgO…",
+        "https://cdn5.telesco.pe/file/sPSIsT9VaPi3KexclTQzCpxcGtEngLI-rzLJswuKxcv1hJ3_d7DhdCs9COAZvsBzxcQCuKHJ9YXFpxrzNIGtqAtSFcm8Bux_5ynu0YqF6zKMsqpMN_bSRQeds-zYR4XGuc9351GrC5sOu0iJBZrnLgNyqWLx8L15LVUR3vrGBb7HCLANr3dZW08622JRq8jBheaD9D5soz1CRcUqNOP0fK_amCx7N5MC969cktzBLn2XZPurVZ3IClJQbGrHUMLSqfhkpTN7tY7WoE9…"
+      ],
+      "videoUrls": [],
+      "reactionCount": 38,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 19,
+          "paid": false
+        },
+        {
+          "emoji": "🤡",
+          "count": 10,
+          "paid": false
+        },
+        {
+          "emoji": "❤",
+          "count": 8,
+          "paid": false
+        }
+      ]
+    }
+  ]
+}

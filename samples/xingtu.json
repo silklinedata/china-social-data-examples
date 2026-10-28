@@ -1,0 +1,154 @@
+{
+  "actor": "clover_folktale/xingtu-scraper",
+  "storePage": "https://apify.com/clover_folktale/xingtu-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "美食",
+    "category": "food",
+    "sort": "followers-desc",
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "creator",
+      "userId": "6662322230669606919",
+      "url": "https://www.xingtu.cn/ad/creator/author-homepage/douyin-video/6662322230669606919",
+      "nickname": "麻辣德子",
+      "avatar": "https://p11.douyinpic.com/aweme/1080x1080/aweme-avatar/mosaic-legacy_1ca0f000534a6eaa16256.jpeg?from=3782654143",
+      "douyinUserId": "69746644058",
+      "gender": "male",
+      "city": null,
+      "province": "山东省",
+      "followers": 27456914,
+      "followersGrowth30d": -137091,
+      "followersGrowthRate15d": -0.0016607201509950607,
+      "categories": [
+        "美食"
+      ],
+      "subCategories": [
+        "美食教程"
+      ],
+      "contentThemes": [],
+      "price20To60s": 266000,
+      "price60sPlus": 288000,
+      "expectedPlays": null,
+      "medianPlays30d": 7338,
+      "medianInteractions30d": 21,
+      "interactionRate30d": 0.0023,
+      "playCompletionRate30d": 0.0269,
+      "expectedCpm20To60s": null,
+      "expectedCpe20To60s": null,
+      "expectedCpm60sPlus": null,
+      "expectedCpe60sPlus": null,
+      "starIndex": 53.01274078553152,
+      "spreadIndex": 68.57,
+      "conversionIndex": 55.72,
+      "shoppingIndex": 69.58,
+      "ecommerceEnabled": true,
+      "ecommerceLevel": "L0",
+      "ecommerceGmv30dRange": null,
+      "recentVideos": [
+        {
+          "videoId": "7604823320488762202",
+          "title": "快过年了 今天给媳妇做一道我学了一个月的菜 锅包肉#送礼送盼盼好事常相伴 ##吃盼盼看冬奥 #面包还是盼盼好 #年货节 #过年送礼",
+          "plays": 1358116,
+          "likes": 39390,
+          "comments": 2947,
+          "shares": 1670,
+          "publishedAt": "2026-02-09T11:18:30Z"
+        },
+        {
+          "videoId": "7545337078763212092",
+          "title": "庆祝中华人民共和国抗日战争暨世界反法西斯战争胜利80周年 #生成我的专属抗战记忆",
+          "plays": 3627416,
+          "likes": 36708,
+          "comments": 999,
+          "shares": 1073,
+          "publishedAt": "2025-09-02T04:01:33Z"
+        },
+        {
+          "videoId": "7518276615219072267",
+          "title": "今天偷懒一回，带一位神秘嘉宾在家吃顿五星大餐。 #私厨到家 #家宴新标配 #麻辣德子",
+          "plays": 1803720,
+          "likes": 56593,
+          "comments": 721,
+          "shares": 983,
+          "publishedAt": "2025-06-23T10:00:00Z"
+        }
+      ]
+    },
+    {
+      "type": "creator",
+      "userId": "6610563192856772611",
+      "url": "https://www.xingtu.cn/ad/creator/author-homepage/douyin-video/6610563192856772611",
+      "nickname": "阿蔡美食教学",
+      "avatar": "https://p3.douyinpic.com/aweme/1080x1080/aweme-avatar/tos-cn-avt-0015_ad02e6c60372eaccc8b0d0babe470b48.jpeg?from=3782654143",
+      "douyinUserId": "64262049774",
+      "gender": "male",
+      "city": "厦门市",
+      "province": "福建省",
+      "followers": 26133301,
+      "followersGrowth30d": 140692,
+      "followersGrowthRate15d": -0.0019800100434351265,
+      "categories": [
+        "美食"
+      ],
+      "subCategories": [
+        "美食教程"
+      ],
+      "contentThemes": [
+        "家常菜教程",
+        "家常菜谱",
+        "汤品教程"
+      ],
+      "price20To60s": 260000,
+      "price60sPlus": 260000,
+      "expectedPlays": 11852441,
+      "medianPlays30d": 7549134,
+      "medianInteractions30d": 180466,
+      "interactionRate30d": 0.0226,
+      "playCompletionRate30d": 0.0377,
+      "expectedCpm20To60s": 21.9364,
+      "expectedCpe20To60s": 0.9324,
+      "expectedCpm60sPlus": 21.9364,
+      "expectedCpe60sPlus": 0.9324,
+      "starIndex": 78.20809856404667,
+      "spreadIndex": 73.81,
+      "conversionIndex": 81.71,
+      "shoppingIndex": 73.92,
+      "ecommerceEnabled": true,
+      "ecommerceLevel": "L2",
+      "ecommerceGmv30dRange": "3w-20w",
+      "recentVideos": [
+        {
+          "videoId": "7696412232633453732",
+          "title": "第138期菜谱 今天在瑞金做的菜：瑞金牛肉汤，辣椒炒鸡，红烧鲈鱼，蒜炒丝瓜，炒青菜，从买菜开始，教程详细，简单实用#优质网络主播江西行 #红星照耀中国",
+          "plays": 5504828,
+          "likes": 109211,
+          "comments": 3344,
+          "shares": 45035,
+          "publishedAt": "2026-10-14T06:50:14Z"
+        },
+        {
+          "videoId": "7690831594106596841",
+          "title": "第137期四菜一汤教程 菜谱：嘎牙鱼炖豆腐，姜葱炒花蛤，炒山药，清炒白菜，滑肉汤，从买菜开始，详细实用#大别福地康养商城#来商城赴一场炖菜之约",
+          "plays": 11379976,
+          "likes": 181641,
+          "comments": 4469,
+          "shares": 61374,
+          "publishedAt": "2026-09-29T05:54:31Z"
+        },
+        {
+          "videoId": "7687207198103350483",
+          "title": "第136期四菜一汤教程 来浙江黄岩用当地食材做四菜一汤：韭黄炒蛋，砂锅焗蟹，蒜炒青菜，茭白炒肉，青瓜肉片汤，从买菜开始，详细实用#我的黄岩我来拍 #橘乡丰收季#熟了黄岩甜了人间 #我的长长长假 #我的假期生活图鉴 #长长长假美食判官",
+          "plays": 7914151,
+          "likes": 135388,
+          "comments": 3312,
+          "shares": 46098,
+          "publishedAt": "2026-09-19T11:30:00Z"
+        }
+      ]
+    }
+  ]
+}

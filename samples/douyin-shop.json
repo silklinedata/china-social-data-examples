@@ -1,0 +1,102 @@
+{
+  "actor": "clover_folktale/douyin-shop-scraper",
+  "storePage": "https://apify.com/clover_folktale/douyin-shop-scraper",
+  "input": {
+    "mode": "search",
+    "keywords": [
+      "口红"
+    ],
+    "maxResults": 5
+  },
+  "runDate": "2026-10-27",
+  "items": [
+    {
+      "type": "product",
+      "productId": "3703366736884662683",
+      "promotionId": "3706887941235306034",
+      "url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3703366736884662683&origin_type=2631",
+      "searchKeyword": "口红",
+      "title": "米之莲口红防水不沾杯不掉色雾面不脱色持久黄皮素颜显白哑光",
+      "imageUrl": "https://p3-aio.ecombdimg.com/obj/ecom-shop-material/jlJsmeZY_m_e741e0c406240370ef6ef98541f73ca5_sx_342533_www1080-1080",
+      "whiteImageUrl": null,
+      "categoryLevel1": "彩妆香水",
+      "categoryLevel2": "唇部彩妆",
+      "categoryLevel3": "有色唇膏/口红",
+      "price": 29.9,
+      "regularPrice": null,
+      "monthlySales": 10866,
+      "positiveRate": 93.33,
+      "shopId": "186032785",
+      "shopName": "亮亮美妆小屋",
+      "shopLogoUrl": "https://p6-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/c1fa18e6aeb04298b0cb146099c67e75~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1824647366&x-signature=Yhl18DP8rqj3gyT%2BN6JDGyaWPOk%3D",
+      "shopScore": 82,
+      "commissionRate": 45,
+      "commissionAmount": 13.46,
+      "cooperatingCreators": 1032,
+      "tags": [
+        "高结算率",
+        "免费寄样",
+        "流量扶持"
+      ],
+      "recommendReason": null,
+      "dailySales": [
+        {
+          "date": "2026-09-27",
+          "sales": 285
+        },
+        {
+          "date": "2026-09-28",
+          "sales": 348
+        },
+        {
+          "date": "2026-09-29",
+          "sales": 309
+        }
+      ]
+    },
+    {
+      "type": "product",
+      "productId": "3849691228438397353",
+      "promotionId": "3849693360688332926",
+      "url": "https://haohuo.jinritemai.com/ecommerce/trade/detail/index.html?id=3849691228438397353&origin_type=2631",
+      "searchKeyword": "口红",
+      "title": "秋冬上新持色水漾奢华唇膏镜面唇釉秋冬水光感女滋润口红唇釉彩妆",
+      "imageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_135278bf0173cc2890bda277f72e34f4_sx_322394_www1200-1200",
+      "whiteImageUrl": "https://p9-aio.ecombdimg.com/obj/ecom-shop-material/jpeg_m_fee80dbd6816880a7c73a70c93634d48_sx_62166_www1200-1200",
+      "categoryLevel1": "彩妆香水",
+      "categoryLevel2": "唇部彩妆",
+      "categoryLevel3": "有色唇膏/口红",
+      "price": 29,
+      "regularPrice": 49.9,
+      "monthlySales": 35,
+      "positiveRate": null,
+      "shopId": "287430711",
+      "shopName": "奢颜个护甄选",
+      "shopLogoUrl": "https://p3-ecom-qualification-sign.ecombdimg.com/tos-cn-i-6vegkygxbk/b749118f38d14834bfdced8deac5e2c3~tplv-6vegkygxbk-s:750.image?lk3s=c9156bde&x-expires=1824647263&x-signature=gR%2BpATL0AldUpECxpMzbS1bt2ys%3D",
+      "shopScore": 91,
+      "commissionRate": 25,
+      "commissionAmount": 7.25,
+      "cooperatingCreators": 17,
+      "tags": [
+        "分期免息",
+        "运费险",
+        "包邮"
+      ],
+      "recommendReason": null,
+      "dailySales": [
+        {
+          "date": "2026-09-27",
+          "sales": 0
+        },
+        {
+          "date": "2026-09-28",
+          "sales": 0
+        },
+        {
+          "date": "2026-09-29",
+          "sales": 0
+        }
+      ]
+    }
+  ]
+}

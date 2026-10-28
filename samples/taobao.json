@@ -1,0 +1,76 @@
+{
+  "actor": "clover_folktale/taobao-scraper",
+  "storePage": "https://apify.com/clover_folktale/taobao-scraper",
+  "input": {
+    "keywords": [
+      "phone case"
+    ],
+    "maxResults": 3,
+    "mode": "search"
+  },
+  "runDate": "2026-10-27",
+  "items": [
+    {
+      "type": "product",
+      "itemId": "1022020209623",
+      "url": "https://item.taobao.com/item.htm?id=1022020209623",
+      "searchKeyword": "phone case",
+      "title": "影视飓风 PAN'S适用苹果iPhone18/17Pro&ProMax  Luna Case新款光层手机壳防摔防刮半透明高级极简保护套彩色",
+      "titleEn": null,
+      "subtitle": null,
+      "price": 109,
+      "discountPrice": 109,
+      "discountType": "优惠价",
+      "salesText": "1000+",
+      "salesCount": 1000,
+      "commentCount": null,
+      "isTmall": true,
+      "shopId": "2220916989365",
+      "shopName": "影视飓风官方旗舰店",
+      "sellerLevel": 14,
+      "sellerPositiveRate": 100,
+      "descriptionRating": 4.88,
+      "serviceRating": 4.91,
+      "shippingRating": 4.92,
+      "itemLocation": "浙江 杭州",
+      "sellerLocation": null,
+      "stock": 2496,
+      "imageUrl": "https://img.alicdn.com/imgextra/i4/2220916989365/O1CN01M2WkEHpfdVE1chua_!!4611686018427387317-0-item_pic.jpg",
+      "imageUrls": [
+        "https://img.alicdn.com/imgextra/i1/2220916989365/O1CN01JGvidVTFHKC1chua_!!2220916989365.jpg",
+        "https://img.alicdn.com/imgextra/i3/2220916989365/O1CN01Q7jVsnyg3oK1chua_!!2220916989365.jpg",
+        "https://img.alicdn.com/imgextra/i2/2220916989365/O1CN01kLvRYH3mYML1chua_!!2220916989365.jpg"
+      ],
+      "spuId": "8837741147"
+    },
+    {
+      "type": "product",
+      "itemId": "1085260672042",
+      "url": "https://item.taobao.com/item.htm?id=1085260672042",
+      "searchKeyword": "phone case",
+      "title": "[壳膜套装]图拉斯Q3soft支点壳iPhone Duo适用苹果iPhoneduo手机壳折叠屏多case磁吸全包dou保护套外壳保护ip",
+      "titleEn": null,
+      "subtitle": null,
+      "price": 916,
+      "discountPrice": 458,
+      "discountType": "新品促销",
+      "salesText": "1000+",
+      "salesCount": 1000,
+      "commentCount": null,
+      "isTmall": true,
+      "shopId": "1659916565",
+      "shopName": "图拉斯旗舰店",
+      "sellerLevel": 19,
+      "sellerPositiveRate": 100,
+      "descriptionRating": 4.84,
+      "serviceRating": 4.88,
+      "shippingRating": 4.9,
+      "itemLocation": "广东 东莞",
+      "sellerLocation": "广东 深圳",
+      "stock": 700,
+      "imageUrl": "https://img.alicdn.com/imgextra/i4/1659916565/O1CN01T76XkKcokkL2vH2e_!!4611686018427384085-0-item_pic.jpg",
+      "imageUrls": [],
+      "spuId": "9067453491"
+    }
+  ]
+}

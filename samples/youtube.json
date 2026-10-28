@@ -1,0 +1,32 @@
+{
+  "actor": "clover_folktale/youtube-scraper",
+  "storePage": "https://apify.com/clover_folktale/youtube-scraper",
+  "input": {
+    "mode": "shorts",
+    "keyword": "pasta recipe",
+    "maxResults": 3
+  },
+  "runDate": "2026-10-27",
+  "items": [
+    {
+      "type": "short",
+      "videoId": "kGey3ib2u9U",
+      "url": "https://www.youtube.com/shorts/kGey3ib2u9U",
+      "title": "Simple yet incredible pasta recipe - olive oil infused with Garlic and basil#shorts#shortsfeed",
+      "viewCountText": "4.2M views",
+      "viewCount": 4200000,
+      "channelId": null,
+      "thumbnailUrl": "https://i.ytimg.com/vi/kGey3ib2u9U/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAIhC2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLASrgJG4maniregSxYBK3FlTFpJJA"
+    },
+    {
+      "type": "short",
+      "videoId": "hvZs62R3VQg",
+      "url": "https://www.youtube.com/shorts/hvZs62R3VQg",
+      "title": "The ultimate Creamy tomato & mozzarella pasta recipe",
+      "viewCountText": "4.8M views",
+      "viewCount": 4800000,
+      "channelId": null,
+      "thumbnailUrl": "https://i.ytimg.com/vi/hvZs62R3VQg/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAIhC0AEB2AEB4gEKCBgQAhgGOAFAAQ==&rs=AOn4CLApBWGoSurRW4dtzhl30tu6eGcChw"
+    }
+  ]
+}

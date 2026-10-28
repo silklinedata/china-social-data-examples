@@ -1,0 +1,44 @@
+{
+  "actor": "clover_folktale/youku-scraper",
+  "storePage": "https://apify.com/clover_folktale/youku-scraper",
+  "input": {
+    "maxResults": 5,
+    "mode": "search",
+    "keywords": [
+      "纪录片"
+    ]
+  },
+  "runDate": "2026-10-27",
+  "items": [
+    {
+      "type": "video",
+      "videoId": "XNjU3Mzg5MTU0OA==",
+      "url": "https://v.youku.com/v_show/id_XNjU3Mzg5MTU0OA==.html",
+      "title": "野生动物纪录片，原来是这样拍摄出来的",
+      "coverUrl": "https://vthumb.ykimg.com/054106016ADEE96D10525C01AA02D97A",
+      "durationSeconds": 159,
+      "publishedText": "昨天",
+      "danmakuCount": 0,
+      "showId": null,
+      "uploaderId": "UMTg1NjQ3OTI5NDg=",
+      "uploaderName": "探索记录",
+      "uploaderAvatar": "https://image.9xsecndns.cn/image/uicon/611ff5f9d144b2678e6f7cb15340d592ff9b56b678c6e6.jpg",
+      "searchKeyword": "纪录片"
+    },
+    {
+      "type": "video",
+      "videoId": "XNjU4MDU1MDMzNg==",
+      "url": "https://v.youku.com/v_show/id_XNjU4MDU1MDMzNg==.html",
+      "title": "搞笑视频：美女制作面条，竟选择黑暗料理，这还能吃吗",
+      "coverUrl": "https://vthumb.ykimg.com/054101016AD5DC3D84D05F153F7C279B",
+      "durationSeconds": 204,
+      "publishedText": "前天",
+      "danmakuCount": 0,
+      "showId": "ffea03476dbe40b09c60",
+      "uploaderId": "UMTQzNjg2MjcyMDg=",
+      "uploaderName": "糯笑笑",
+      "uploaderAvatar": "https://ykimg.alicdn.com/develop/image/2023-07-16/7daeb1e359b91128fda1292ac623c51f.png",
+      "searchKeyword": "纪录片"
+    }
+  ]
+}

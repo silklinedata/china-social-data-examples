@@ -1,0 +1,60 @@
+{
+  "actor": "clover_folktale/weibo-scraper",
+  "storePage": "https://apify.com/clover_folktale/weibo-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "特斯拉",
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "post",
+      "postId": "5357966292422497",
+      "mblogid": "RojY1aacx",
+      "url": "https://weibo.com/5861726648/RojY1aacx",
+      "text": "来自网友拍摄！如果牌子一换，热搜得三天三夜，可那是洋牌子，风平浪静！应了那句话——哪能一样[允悲]#特斯拉事故# http://t.cn/AXjMZ5xF ​",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorUrl": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorVerified": "<redacted>",
+      "authorVerifiedType": 0,
+      "authorIpLocation": "<redacted>",
+      "publishedAt": "2026-10-25T09:56:13Z",
+      "reposts": 24,
+      "comments": 33,
+      "likes": 78,
+      "imageCount": 0,
+      "isPinned": false,
+      "hasVideo": true,
+      "videoPlays": 5294,
+      "videoDurationSeconds": 22,
+      "videoUrl": "http://f.video.weibocdn.com/u0/MTAMVgukgx08BQIulPew01041200awrc0E010.mp4?label=mp4_720p&template=720x960.24.0&ori=0&ps=1BVp4ysnknHVZu&Expires=1793011276&ssig=gr89YgLz4E&KID=unistore,video"
+    },
+    {
+      "type": "post",
+      "postId": "5357273561171299",
+      "mblogid": "Ro1WI4UHV",
+      "url": "https://weibo.com/2036161077/Ro1WI4UHV",
+      "text": "不是测试、不是实验！现实行驶中台湾一女司机把特斯拉特斯拉汽车的油门踏板踩断了！媒体该发三问、再问了吧？[允悲][允悲][允悲][允悲] ​",
+      "authorName": "<redacted>",
+      "authorId": "<redacted>",
+      "authorUrl": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorVerified": "<redacted>",
+      "authorVerifiedType": 0,
+      "authorIpLocation": "<redacted>",
+      "publishedAt": "2026-10-23T12:03:33Z",
+      "reposts": 98,
+      "comments": 344,
+      "likes": 1121,
+      "imageCount": 2,
+      "isPinned": false,
+      "hasVideo": false,
+      "videoPlays": null,
+      "videoDurationSeconds": null,
+      "videoUrl": null
+    }
+  ]
+}

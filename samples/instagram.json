@@ -1,0 +1,121 @@
+{
+  "actor": "clover_folktale/instagram-scraper",
+  "storePage": "https://apify.com/clover_folktale/instagram-scraper",
+  "input": {
+    "mode": "userPosts",
+    "usernames": [
+      "nasa"
+    ],
+    "maxResults": 3
+  },
+  "runDate": "2026-10-21",
+  "items": [
+    {
+      "type": "post",
+      "postId": "4004634989362489982",
+      "shortCode": "DeTUk4sDSp-",
+      "url": "https://www.instagram.com/reel/DeTUk4sDSp-/",
+      "postType": "Video",
+      "productType": "clips",
+      "caption": "POV: you're watching the Earth set\n\nWe just released hundreds of new images and hours of new audio from our Artemis II mission around the Moon this spring. Check out our link in bio for the Artemis II Preliminary Lunar Science Report.\n\n#NASA #ArtemisII #Artemis",
+      "hashtags": [
+        "NASA",
+        "ArtemisII",
+        "Artemis"
+      ],
+      "mentions": [],
+      "createdAt": "2026-10-10T15:15:02Z",
+      "likeCount": 720440,
+      "commentCount": 7187,
+      "playCount": 10520295,
+      "viewCount": null,
+      "shareCount": 39950,
+      "repostCount": 27460,
+      "saveCount": 28001,
+      "durationSeconds": 43.766,
+      "width": 1074,
+      "height": 1908,
+      "displayUrl": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/842191580_18656578867049152_4200499629839780998_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=111&ig_cache_key=NDAwNDYzNDk4OTM2MjQ4OTk4MjE4NjU2NTc4ODYxMDQ5MTUy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwNzQuc2RyLnZ…",
+      "videoUrl": "https://scontent-cph2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNUvreb47JFAC3mKM7kF_weYHzhiVF-MfERm99CfyBTok0ezeRdbVW8cH5NXn4mxO8gVi6j1GQ2RU9i4ByvKCLVPHdDruUpsCKYDQI.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_ohc=-jYug7eRfPMQ7kNvwEljGmH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9nc…",
+      "altText": null,
+      "isVideo": true,
+      "isPinned": true,
+      "isSponsored": false,
+      "commentsDisabled": null,
+      "likesHidden": false,
+      "ownerId": "528817151",
+      "ownerUsername": "nasa",
+      "ownerFullName": "NASA",
+      "ownerVerified": true,
+      "ownerPrivate": false,
+      "ownerProfilePicUrl": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/29090066_159271188110124_1152068159029641216_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=1&ig_cache_key=GBLhuwEsG5c225AAAAAAAADj9-wPbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_o…",
+      "taggedUsers": [],
+      "coauthors": [
+        "nasasolarsystem",
+        "nasaartemis"
+      ],
+      "locationId": null,
+      "locationName": null,
+      "musicId": "28589819277311219",
+      "musicTitle": "Original audio",
+      "musicArtist": "nasa",
+      "isOriginalAudio": true,
+      "childPosts": [],
+      "sourceInput": "nasa"
+    },
+    {
+      "type": "post",
+      "postId": "4001971394119634476",
+      "shortCode": "DeJ28eTxo4s",
+      "url": "https://www.instagram.com/p/DeJ28eTxo4s/",
+      "postType": "Image",
+      "productType": "feed",
+      "caption": "Brewing up new stars 🪄\n \n@NASAWebb’s unique view of the stellar nursery known as NGC 7129 reveals numerous stars formerly hidden in this cosmic cauldron. \n \nStars begin their life in cold, dense regions of dust and gas, hiding from view of most telescopes. Webb’s high degree of infrared sensitivity …",
+      "hashtags": [],
+      "mentions": [
+        "NASAWebb"
+      ],
+      "createdAt": "2026-10-06T13:10:11Z",
+      "likeCount": 272593,
+      "commentCount": 847,
+      "playCount": null,
+      "viewCount": null,
+      "shareCount": null,
+      "repostCount": 17082,
+      "saveCount": null,
+      "durationSeconds": null,
+      "width": 2000,
+      "height": 1872,
+      "displayUrl": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/838879752_18633093571001809_7013098794556155636_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_cat=109&ig_cache_key=NDAwMTk3MTM5NDExOTYzNDQ3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjAwMC5zZHIucmVndWxhcl9waG90b…",
+      "videoUrl": null,
+      "altText": null,
+      "isVideo": false,
+      "isPinned": true,
+      "isSponsored": false,
+      "commentsDisabled": null,
+      "likesHidden": false,
+      "ownerId": "549313808",
+      "ownerUsername": "nasawebb",
+      "ownerFullName": "NASA Webb Telescope",
+      "ownerVerified": true,
+      "ownerPrivate": false,
+      "ownerProfilePicUrl": "https://scontent-cph2-1.cdninstagram.com/v/t51.2885-19/432029380_939863124412845_4074172309041694202_n.jpg?stp=dst-jpg_e0_s150x150_tt6&_nc_cat=109&ig_cache_key=GMQ_wBmtCavvzFYDAPrFKRIhXoo4bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_n…",
+      "taggedUsers": [
+        "nasa",
+        "nasauniverse"
+      ],
+      "coauthors": [
+        "nasauniverse",
+        "nasa"
+      ],
+      "locationId": null,
+      "locationName": null,
+      "musicId": null,
+      "musicTitle": null,
+      "musicArtist": null,
+      "isOriginalAudio": null,
+      "childPosts": [],
+      "sourceInput": "nasa"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "actor": "clover_folktale/jd-scraper",
+  "storePage": "https://apify.com/clover_folktale/jd-scraper",
+  "input": {
+    "mode": "shop",
+    "shops": [
+      "1000000127"
+    ],
+    "maxResults": 5
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "product",
+      "itemId": "100414360368",
+      "url": "https://item.jd.com/100414360368.html",
+      "title": "Apple Watch Series 12",
+      "shopId": "1000000127",
+      "shopName": "Apple产品京东自营旗舰店"
+    },
+    {
+      "type": "product",
+      "itemId": "100317829769",
+      "url": "https://item.jd.com/100317829769.html",
+      "title": "Apple Watch Series 12",
+      "shopId": "1000000127",
+      "shopName": "Apple产品京东自营旗舰店"
+    }
+  ]
+}

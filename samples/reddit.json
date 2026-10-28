@@ -1,0 +1,58 @@
+{
+  "actor": "clover_folktale/reddit-scraper",
+  "storePage": "https://apify.com/clover_folktale/reddit-scraper",
+  "input": {
+    "mode": "search",
+    "keyword": "best budget laptop",
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "post",
+      "postId": "1wcxoz9",
+      "url": "https://www.reddit.com/r/computers/comments/1wcxoz9/best_laptop_on_a_budget/",
+      "title": "Best laptop on a budget",
+      "text": "My PC got fried in a storm & I need a new computer. I've been thinking about switching to a laptop anyway so now looking for one. I want windows and only have between $300-400 to spend. For the most part I pay bills, do some social media, play simple games and use photoshop for graphics.I know its t…",
+      "subreddit": "computers",
+      "author": "<redacted>",
+      "authorId": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorAccountType": "<redacted>",
+      "score": 9,
+      "upvoteRatio": 1,
+      "commentCount": 7,
+      "createdAt": "2026-09-10T22:17:15Z",
+      "flair": "Discussion",
+      "linkUrl": null,
+      "imageUrl": null,
+      "isSelfPost": true,
+      "isNsfw": false,
+      "isLocked": false,
+      "isStickied": false
+    },
+    {
+      "type": "post",
+      "postId": "1w8c8m7",
+      "url": "https://www.reddit.com/r/BudgetGamingLaptop/comments/1w8c8m7/best_budget_gaming_laptops_in_2026_guide_list/",
+      "title": "Best Budget Gaming Laptops in 2026 - Guide & List.",
+      "text": "Buying a gaming laptop in 2026 is harder than ever.\n\nThere are RTX 3050, 4050, 5050, 5060 and even discounted RTX 4070 laptops all competing in the same price ranges. On top of that, manufacturers often sell the same GPU with different power limits (TGP), meaning two laptops with identical specs can…",
+      "subreddit": "BudgetGamingLaptop",
+      "author": "<redacted>",
+      "authorId": "<redacted>",
+      "authorAvatar": "<redacted>",
+      "authorAccountType": "<redacted>",
+      "score": 20,
+      "upvoteRatio": 1,
+      "commentCount": 8,
+      "createdAt": "2026-09-05T20:53:47Z",
+      "flair": "Discussion",
+      "linkUrl": null,
+      "imageUrl": null,
+      "isSelfPost": true,
+      "isNsfw": false,
+      "isLocked": false,
+      "isStickied": true
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "actor": "clover_folktale/kuaishou-scraper",
+  "storePage": "https://apify.com/clover_folktale/kuaishou-scraper",
+  "input": {
+    "mode": "search",
+    "keywords": [
+      "美食"
+    ],
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "video",
+      "videoId": "5190117255808307705",
+      "url": "https://www.kuaishou.com/short-video/3xvf5uqtaeevmyq",
+      "workType": "image",
+      "description": "#图文新星计划 #美食图片视频制作分享 #家常菜教程 #美食制作分享 @快手热点(O40300129)",
+      "hashtags": [
+        "图文新星计划",
+        "美食图片视频制作分享",
+        "家常菜教程"
+      ],
+      "createdAt": "2025-03-24T10:08:36Z",
+      "durationSeconds": null,
+      "playCount": 1612740,
+      "likeCount": 11634,
+      "commentCount": 175,
+      "shareCount": 1875,
+      "collectCount": 6427,
+      "downloadCount": 4300,
+      "authorId": "<redacted>",
+      "authorName": "<redacted>",
+      "authorKwaiId": null,
+      "authorGender": "<redacted>",
+      "authorVerified": false,
+      "authorAvatarUrl": "<redacted>",
+      "authorProfileUrl": "<redacted>",
+      "musicId": null,
+      "musicTitle": null,
+      "musicArtist": null,
+      "coverUrl": "http://ws2.a.kwimgs.com/upic/2025/03/24/18/BMjAyNTAzMjQxODA4MzBfMzU1Njc3MzQxMV8xNjAwMjc5MzI2ODNfMV82_hd_B0d18ac21a770a695a746e9b2fe867fc0.kvif?tag=1-1793007875-sff-0-fivllxkeaq-7fec3cfd1981f6cd&type=hot&clientCacheKey=3xvf5uqtaeevmyq_hd.kvif&di=4cd936bf&bp=10682",
+      "videoUrl": null,
+      "width": 1080,
+      "height": 1442,
+      "keyword": "美食"
+    },
+    {
+      "type": "video",
+      "videoId": "5226990476821709485",
+      "url": "https://www.kuaishou.com/short-video/3xv7cxgi2qn8u62",
+      "workType": "video",
+      "description": "吃什么就是什么：炸鸡版 #美食推荐 #美食分享 #沉浸式吃饭 #炸鸡",
+      "hashtags": [
+        "美食推荐",
+        "美食分享",
+        "沉浸式吃饭"
+      ],
+      "createdAt": "2025-03-28T07:46:50Z",
+      "durationSeconds": 5,
+      "playCount": 822480,
+      "likeCount": 5493,
+      "commentCount": 463,
+      "shareCount": 1320,
+      "collectCount": 1774,
+      "downloadCount": 76,
+      "authorId": "<redacted>",
+      "authorName": "<redacted>",
+      "authorKwaiId": null,
+      "authorGender": "<redacted>",
+      "authorVerified": false,
+      "authorAvatarUrl": "<redacted>",
+      "authorProfileUrl": "<redacted>",
+      "musicId": "5xwcqmeq7xp3jf2",
+      "musicTitle": "<redacted>'s soundtrack",
+      "musicArtist": "<redacted>",
+      "coverUrl": "http://ws2.a.kwimgs.com/upic/2025/03/28/15/BMjAyNTAzMjgxNTQ2MzBfMTEyNjIyOTY4NF8xNjAyOTYwNjkxNzFfMV8z_hd_B71bf741186cee5b4fd0182e2e33ffac0.kvif?tag=1-1793007875-sff-0-blto4oycjv-e2a31bc018879988&type=hot&clientCacheKey=3xv7cxgi2qn8u62_hd.kvif&di=4cd936bf&bp=10682",
+      "videoUrl": "http://v1.kwaicdn.com/ksc1/9IIK3C_fifig1sdNGzRwf5bHS1H0_1ksz4BEYNA6LsaEQAbZMO_VMO86p4dr9xTwC_TgIQiHE_7kezt2nZsOKEGY_QJUg6NOEeApSq6uCv0OKYlM0QxcionHNDQ_-A3fCxo69sMQcjVP2pSzwoNUvNgHmfwredCEDk5YJ2yz4c32bD643r7NIM3EbZY8b6ki.mp4?pkey=AAVubzcjVRjCcH2_iCL5VHQPudyHUd-A1ea7Waky-wvRex-Ki7h57MNYqK-Cz0I0VcFVamM…",
+      "width": 720,
+      "height": 1280,
+      "keyword": "美食"
+    }
+  ]
+}

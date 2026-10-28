@@ -1,0 +1,167 @@
+{
+  "actor": "clover_folktale/pugongying-scraper",
+  "storePage": "https://apify.com/clover_folktale/pugongying-scraper",
+  "input": {
+    "mode": "search",
+    "maxResults": 3,
+    "keyword": "面膜"
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "blogger",
+      "userId": "558e2ab0f5a2634612b371b6",
+      "url": "https://www.xiaohongshu.com/user/profile/558e2ab0f5a2634612b371b6",
+      "redId": "637243769",
+      "nickname": "猜了个猜",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31v427bln2g7040slldlb0sdmp04btg8?imageView2/2/w/120/format/jpg",
+      "location": "北京",
+      "gender": "female",
+      "followers": 30892,
+      "likesAndCollects": null,
+      "sponsoredNoteCount": 430,
+      "categories": [
+        "护肤"
+      ],
+      "subCategories": [
+        "面部保养",
+        "护肤合集"
+      ],
+      "personaTags": [
+        "0-6个月",
+        "妈妈",
+        "家庭"
+      ],
+      "featureTags": [
+        "抗老",
+        "眼部护理",
+        "祛黄"
+      ],
+      "industries": [
+        "3c及电器",
+        "日用百货",
+        "食品饮料"
+      ],
+      "picturePrice": 6800,
+      "videoPrice": 6800,
+      "lowestPrice": 6800,
+      "medianReads": 0,
+      "medianEngagements": 0,
+      "pictureMedianReads": 0,
+      "videoMedianReads": 0,
+      "pictureMedianEngagements": 0,
+      "videoMedianEngagements": 0,
+      "medianImpressions": 0,
+      "sponsoredMedianReads": 13502,
+      "sponsoredMedianEngagements": 1850,
+      "sponsoredMedianImpressions": 80765,
+      "pictureReadCost": 0.8,
+      "videoReadCost": 0,
+      "estimatedVideoCpm": 0,
+      "estimatedVideoEngageCost": 0,
+      "videoCompletionPct": 0,
+      "thousandLikeNotePct": 0,
+      "hundredLikeNotePct": 0,
+      "followersGrowthPct30d": 1,
+      "activeFollowersPct": 58.6,
+      "engagedFollowersPct": 7.3,
+      "inviteReplyPct48h": 72.6,
+      "recentNotes": [
+        {
+          "noteId": "6a993b66000000001001e862",
+          "url": "https://www.xiaohongshu.com/explore/6a993b66000000001001e862",
+          "imageUrl": "http://ci.xiaohongshu.com/notes_pre_post/1040g3k8324l7nab9nk8040slldlb0sdm37cbvog?imageView2/2/w/540/format/jpg/q/75",
+          "featureTags": [
+            "面膜"
+          ]
+        },
+        {
+          "noteId": "6aaa677d00000000260173a8",
+          "url": "https://www.xiaohongshu.com/explore/6aaa677d00000000260173a8",
+          "imageUrl": "http://ci.xiaohongshu.com/1040g008325632uknkq0040slldlb0sdmc0g0r38?imageView2/2/w/540/format/jpg/q/75",
+          "featureTags": [
+            "面膜"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "blogger",
+      "userId": "6504def000000000170230e7",
+      "url": "https://www.xiaohongshu.com/user/profile/6504def000000000170230e7",
+      "redId": "Yyz200068",
+      "nickname": "不芝火舞",
+      "avatar": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31or0nrur1g005p84rro5sc77622kav0?imageView2/2/w/120/format/jpg",
+      "location": "广东 潮州 潮安区",
+      "gender": "female",
+      "followers": 29720,
+      "likesAndCollects": null,
+      "sponsoredNoteCount": 270,
+      "categories": [
+        "个人护理",
+        "护肤"
+      ],
+      "subCategories": [
+        "护理其他",
+        "头发产品",
+        "身体护理"
+      ],
+      "personaTags": [
+        "学生",
+        "化妆师"
+      ],
+      "featureTags": [
+        "隔离防晒",
+        "痘痘肌",
+        "油皮"
+      ],
+      "industries": [
+        "3c及电器",
+        "日用百货",
+        "母婴"
+      ],
+      "picturePrice": 3500,
+      "videoPrice": 2800,
+      "lowestPrice": 2800,
+      "medianReads": 15196,
+      "medianEngagements": 1958,
+      "pictureMedianReads": 15196,
+      "videoMedianReads": 0,
+      "pictureMedianEngagements": 1958,
+      "videoMedianEngagements": 0,
+      "medianImpressions": 154155,
+      "sponsoredMedianReads": 10601,
+      "sponsoredMedianEngagements": 1837,
+      "sponsoredMedianImpressions": 125299,
+      "pictureReadCost": 0.63,
+      "videoReadCost": 0,
+      "estimatedVideoCpm": 0,
+      "estimatedVideoEngageCost": 0,
+      "videoCompletionPct": 0,
+      "thousandLikeNotePct": 100,
+      "hundredLikeNotePct": 100,
+      "followersGrowthPct30d": 0.4,
+      "activeFollowersPct": 71.9,
+      "engagedFollowersPct": 8.1,
+      "inviteReplyPct48h": 95.5,
+      "recentNotes": [
+        {
+          "noteId": "6a97d1060000000011032de0",
+          "url": "https://www.xiaohongshu.com/explore/6a97d1060000000011032de0",
+          "imageUrl": "http://ci.xiaohongshu.com/notes_pre_post/1040g3k0324ju9tu8mu404a0t61ue282drr2e8qg?imageView2/2/w/540/format/jpg/q/75",
+          "featureTags": [
+            "面膜"
+          ]
+        },
+        {
+          "noteId": "6a881690000000001d01fcc3",
+          "url": "https://www.xiaohongshu.com/explore/6a881690000000001d01fcc3",
+          "imageUrl": "http://ci.xiaohongshu.com/notes_pre_post/1040g3k03244i5pbcgo2g5p84rro5sc77712uvo0?imageView2/2/w/540/format/jpg/q/75",
+          "featureTags": [
+            "面膜"
+          ]
+        }
+      ]
+    }
+  ]
+}

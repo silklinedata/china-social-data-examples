@@ -1,0 +1,31 @@
+{
+  "actor": "clover_folktale/douyin-scraper",
+  "storePage": "https://apify.com/clover_folktale/douyin-scraper",
+  "input": {
+    "mode": "hot",
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "hotTopic",
+      "rank": 1,
+      "word": "持之以恒推进全面从严治党",
+      "url": "https://www.douyin.com/search/%E6%8C%81%E4%B9%8B%E4%BB%A5%E6%81%92%E6%8E%A8%E8%BF%9B%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A",
+      "hotValue": 0,
+      "viewCount": 0,
+      "videoCount": 1,
+      "sentenceId": "2713448"
+    },
+    {
+      "type": "hotTopic",
+      "rank": 2,
+      "word": "二十届五中全会今起在京召开",
+      "url": "https://www.douyin.com/search/%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E4%BB%8A%E8%B5%B7%E5%9C%A8%E4%BA%AC%E5%8F%AC%E5%BC%80",
+      "hotValue": 12110101,
+      "viewCount": 61342733,
+      "videoCount": 1,
+      "sentenceId": "2713629"
+    }
+  ]
+}

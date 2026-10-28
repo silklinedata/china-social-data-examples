@@ -1,0 +1,50 @@
+{
+  "actor": "clover_folktale/tiktok-creative-center-scraper",
+  "storePage": "https://apify.com/clover_folktale/tiktok-creative-center-scraper",
+  "input": {
+    "mode": "topAds",
+    "keywords": [
+      "shoes"
+    ],
+    "maxResults": 3
+  },
+  "runDate": "2026-10-22",
+  "items": [
+    {
+      "type": "ad",
+      "adId": "7218843647072075778",
+      "title": "Adakah anda kenali Brand XES? #xesshoes #shoesforeverymoment #tiktokshop #tiktokmalaysia #ootd #foryou #foryoupage #racuntiktok  #racunintiktok #tiktok #fypage #kasutRAYA #ramadan #fashion #fypdongggggggg #raya #shoes ",
+      "brandName": null,
+      "industry": "Other Apparel & Accessories",
+      "objective": "Video Views",
+      "likeCount": 1819,
+      "ctr": 0.8,
+      "costLevel": 2,
+      "videoId": "v09044g40000cgn5h7rc77u681cst5fg",
+      "durationSeconds": 90.883,
+      "width": 576,
+      "height": 1024,
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/98051f00bdaa44fc9255be204c225c6c_1680759326~tplv-noop.image?dr=18692&refresh_token=06d2ddd1&x-expires=1792662398&x-signature=4BhatHJ9aIR%2BnPpNerT3oduQ5Jo%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=317596d8&idc=my&VideoID=v09044g40000cgn5h7rc7…",
+      "videoUrl": "https://v16m-default.tiktokcdn.com/05c87737a85ab795d6b805bfae41ac6d/6ad9db7e/video/tos/alisg/tos-alisg-ve-37c813-sg/oAINgsVIAnDS6gTe8mfCb8FZECSIfRWAjLXciA/?a=0&bti=NTU4QDM1NGA%3D&&bt=1365&ft=cApXJCz7ThWHQNZ4LGZmo0P&mime_type=video_mp4&rc=Njc7OWVkODNpNDc4OWU2ZEBpajh2NDk6Zjo4ajMzNzczM0AwXjFhLy9jNS0xLm…",
+      "keyword": "shoes"
+    },
+    {
+      "type": "ad",
+      "adId": "7601826164370718728",
+      "title": "Zegna: Run with Confidence, Designed for Performance",
+      "brandName": "Zegna Shoes",
+      "industry": "Men's Shoes",
+      "objective": "Conversions",
+      "likeCount": 22,
+      "ctr": 0.66,
+      "costLevel": 1,
+      "videoId": "v14033g50000d9hsiafog65r5519efh0",
+      "durationSeconds": 23.6,
+      "width": 720,
+      "height": 1280,
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0051c001-sg/owYWPniIIBgqUxYfUyiUjpZXiSSKXDAKBBeND7~tplv-noop.image?dr=18692&refresh_token=a72a1598&x-expires=1792662331&x-signature=mTf1%2B1pwj8ZjIgom%2Fktp5pfecRY%3D&t=9276707c&ps=14f1eb3e&shp=9e36835a&shcp=317596d8&idc=my&VideoID=v14033g50000d9hsia…",
+      "videoUrl": "https://v16m-default.tiktokcdn.com/c87c2f4cf6c5179acef6e0808c045ce5/6ad9db3b/video/tos/alisg/tos-alisg-ve-51c800-sg/oQC5AHnfBFzMMGxgQSEDwTfUIwG6A0T8DgfX3b/?a=0&bti=NTU4QDM1NGA%3D&&bt=2215&ft=cApXJCz7ThWHQNZ4LGZmo0P&mime_type=video_mp4&rc=NDk1Ojs3aDlkNjRkZTtpOkBpM2k8OHU5cmR2PDMzODYzNEAzYWBjNC00NTQxND…",
+      "keyword": "shoes"
+    }
+  ]
+}

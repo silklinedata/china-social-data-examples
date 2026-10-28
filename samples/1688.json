@@ -1,0 +1,79 @@
+{
+  "actor": "clover_folktale/1688-scraper",
+  "storePage": "https://apify.com/clover_folktale/1688-scraper",
+  "input": {
+    "keywords": [
+      "phone case"
+    ],
+    "maxResults": 10
+  },
+  "runDate": "2026-10-26",
+  "items": [
+    {
+      "type": "product",
+      "offerId": "1092855219022",
+      "url": "https://detail.1688.com/offer/1092855219022.html",
+      "searchKeyword": "phone case",
+      "title": "适用iPhone DUO 透明磁吸手机壳苹果18亚克力二合一硬壳Magsafe",
+      "price": 1.85,
+      "tierPrices": [],
+      "orderCount": 0,
+      "salesText": null,
+      "salesCount": null,
+      "supplierName": "欧辰手机配件",
+      "supplierId": "b2b-2220099743746e3453",
+      "shopUrl": "http://shop0803o504t41j3.1688.com",
+      "businessType": "生产加工",
+      "compositeScore": null,
+      "goodsScore": null,
+      "logisticsScore": null,
+      "consultationScore": null,
+      "disputeScore": null,
+      "returnScore": null,
+      "repurchaseRateBadge": 67,
+      "offerRepurchaseRate": null,
+      "isFactoryVerified": false,
+      "isBusinessVerified": false,
+      "province": "广东",
+      "city": "广州市",
+      "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01R3aW18YmlEI2b8G8_!!2220099743746-0-cib.jpg",
+      "imageUrls": [
+        "https://cbu01.alicdn.com/img/ibank/O1CN01R3aW18YmlEI2b8G8_!!2220099743746-0-cib.jpg"
+      ],
+      "isAd": true
+    },
+    {
+      "type": "product",
+      "offerId": "654830485594",
+      "url": "https://detail.1688.com/offer/654830485594.html",
+      "searchKeyword": "phone case",
+      "title": "适用Apple iPhone15 14 Pro Max magsafe clear case磁吸手机壳",
+      "price": 3.5,
+      "tierPrices": [],
+      "orderCount": 751,
+      "salesText": "已售4100+件",
+      "salesCount": 4100,
+      "supplierName": "深圳弘大辉业科技有限公司",
+      "supplierId": "b2b-3958817742abbd5",
+      "shopUrl": "http://shop1006072232p62.1688.com",
+      "businessType": "生产加工",
+      "compositeScore": 5,
+      "goodsScore": 5,
+      "logisticsScore": 4.14,
+      "consultationScore": 4,
+      "disputeScore": 5,
+      "returnScore": 3.67,
+      "repurchaseRateBadge": 74,
+      "offerRepurchaseRate": 100,
+      "isFactoryVerified": false,
+      "isBusinessVerified": true,
+      "province": "广东",
+      "city": "深圳市",
+      "imageUrl": "https://cbu01.alicdn.com/img/ibank/O1CN01llVCO8273t2vk3e6P_!!3958817742-0-cib.jpg",
+      "imageUrls": [
+        "https://cbu01.alicdn.com/img/ibank/O1CN01llVCO8273t2vk3e6P_!!3958817742-0-cib.jpg"
+      ],
+      "isAd": false
+    }
+  ]
+}
